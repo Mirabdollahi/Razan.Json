@@ -1,0 +1,14 @@
+D:\Projects\Razan\Razan.Json (.NET Standard)\Razan.Json.TestNETCore\bin\Release\netcoreapp2.2\Razan.Json.TestNETCore.deps.json
+D:\Projects\Razan\Razan.Json (.NET Standard)\Razan.Json.TestNETCore\bin\Release\netcoreapp2.2\Razan.Json.TestNETCore.runtimeconfig.json
+D:\Projects\Razan\Razan.Json (.NET Standard)\Razan.Json.TestNETCore\bin\Release\netcoreapp2.2\Razan.Json.TestNETCore.runtimeconfig.dev.json
+D:\Projects\Razan\Razan.Json (.NET Standard)\Razan.Json.TestNETCore\bin\Release\netcoreapp2.2\Razan.Json.TestNETCore.dll
+D:\Projects\Razan\Razan.Json (.NET Standard)\Razan.Json.TestNETCore\bin\Release\netcoreapp2.2\Razan.Json.TestNETCore.pdb
+D:\Projects\Razan\Razan.Json (.NET Standard)\Razan.Json.TestNETCore\bin\Release\netcoreapp2.2\Razan.Json.dll
+D:\Projects\Razan\Razan.Json (.NET Standard)\Razan.Json.TestNETCore\bin\Release\netcoreapp2.2\Razan.Json.pdb
+D:\Projects\Razan\Razan.Json (.NET Standard)\Razan.Json.TestNETCore\obj\Release\netcoreapp2.2\Razan.Json.TestNETCore.csprojAssemblyReference.cache
+D:\Projects\Razan\Razan.Json (.NET Standard)\Razan.Json.TestNETCore\obj\Release\netcoreapp2.2\Razan.Json.TestNETCore.csproj.CoreCompileInputs.cache
+D:\Projects\Razan\Razan.Json (.NET Standard)\Razan.Json.TestNETCore\obj\Release\netcoreapp2.2\Razan.Json.TestNETCore.AssemblyInfoInputs.cache
+D:\Projects\Razan\Razan.Json (.NET Standard)\Razan.Json.TestNETCore\obj\Release\netcoreapp2.2\Razan.Json.TestNETCore.AssemblyInfo.cs
+D:\Projects\Razan\Razan.Json (.NET Standard)\Razan.Json.TestNETCore\obj\Release\netcoreapp2.2\Razan.Json.TestNETCore.csproj.CopyComplete
+D:\Projects\Razan\Razan.Json (.NET Standard)\Razan.Json.TestNETCore\obj\Release\netcoreapp2.2\Razan.Json.TestNETCore.dll
+D:\Projects\Razan\Razan.Json (.NET Standard)\Razan.Json.TestNETCore\obj\Release\netcoreapp2.2\Razan.Json.TestNETCore.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Razan.Json.TestNETCore/1.0.0": {
+        "dependencies": {
+          "Razan.Json": "1.0.0"
+        },
+        "runtime": {
+          "Razan.Json.TestNETCore.dll": {}
+        }
+      },
+      "Razan.Json/1.0.0": {
+        "runtime": {
+          "Razan.Json.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Razan.Json.TestNETCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Razan.Json/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

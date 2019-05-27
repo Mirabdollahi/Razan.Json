@@ -1,0 +1,8 @@
+﻿<package>
+  <metadata>
+    <license type="file">LICENSE.txt</license>
+  </metadata>
+  <files>
+    <file src="licenses\LICENSE.txt" target="" />
+  </files>
+</package>
