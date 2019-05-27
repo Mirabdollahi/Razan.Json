@@ -2,7 +2,7 @@
 A .NET implementation for JSON (JavaScript Object Notation)
 
 ## Installation
-You can download and compile it yourself.
+Package is avaliable via [NuGet](https://www.nuget.org/packages/Razan.Json). Or you can download and compile it yourself.
 
 ## Supported .NET versions:
 - .NET Standard 2.0
