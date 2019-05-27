@@ -1,0 +1,9 @@
+D:\Projects\Razan\Razan.Json (.NET Standard)\Razan.Json (.NET Standard)\bin\Debug\netstandard2.0\Razan.Json (.NET Standard).deps.json
+D:\Projects\Razan\Razan.Json (.NET Standard)\Razan.Json (.NET Standard)\bin\Debug\netstandard2.0\Razan.Json (.NET Standard).dll
+D:\Projects\Razan\Razan.Json (.NET Standard)\Razan.Json (.NET Standard)\bin\Debug\netstandard2.0\Razan.Json (.NET Standard).pdb
+D:\Projects\Razan\Razan.Json (.NET Standard)\Razan.Json (.NET Standard)\obj\Debug\netstandard2.0\Razan.Json (.NET Standard).csprojAssemblyReference.cache
+D:\Projects\Razan\Razan.Json (.NET Standard)\Razan.Json (.NET Standard)\obj\Debug\netstandard2.0\Razan.Json (.NET Standard).csproj.CoreCompileInputs.cache
+D:\Projects\Razan\Razan.Json (.NET Standard)\Razan.Json (.NET Standard)\obj\Debug\netstandard2.0\Razan.Json (.NET Standard).AssemblyInfoInputs.cache
+D:\Projects\Razan\Razan.Json (.NET Standard)\Razan.Json (.NET Standard)\obj\Debug\netstandard2.0\Razan.Json (.NET Standard).AssemblyInfo.cs
+D:\Projects\Razan\Razan.Json (.NET Standard)\Razan.Json (.NET Standard)\obj\Debug\netstandard2.0\Razan.Json (.NET Standard).dll
+D:\Projects\Razan\Razan.Json (.NET Standard)\Razan.Json (.NET Standard)\obj\Debug\netstandard2.0\Razan.Json (.NET Standard).pdb
