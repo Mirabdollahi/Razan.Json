@@ -42,7 +42,7 @@ Console.WriteLine(stringified);
 
 The output would be:
 
->{"Array":[1/\*int*/,2/\*int*/,3/\*int*/,4/\*int*/,5/\*int*/,6/\*int*/],"Object":{"Prop1":true,"Prop2":1/*double*/,"Prop3":["Str1","Str2"]}}
+>{"Array":[1/\*int\*/,2/\*int\*/,3/\*int\*/,4/\*int\*/,5/\*int\*/,6/\*int\*/],"Object":{"Prop1":true,"Prop2":1/\*double\*/,"Prop3":["Str1","Str2"]}}
 
 ```C#
 dynamic importedJson = new JsonObject(stringified);
