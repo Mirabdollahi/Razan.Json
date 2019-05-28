@@ -19,10 +19,10 @@ json.AsDynamic.Object = new
     Prop3 = new[] { "Str1", "Str2" }
 };
 
-var array = json.OptJsonArray("Array"); // JsonArray implements List<object>
+var array = json.OptJsonArray("Array"); // JsonArray implements IList<object>
 array.Add(5);
 
-var jsonArrayOfInt = array.AsJsonArray<int>(); // JsonArray<TType> implements List<TType>
+var jsonArrayOfInt = array.AsJsonArray<int>(); // JsonArray<TType> implements IList<TType>
 jsonArrayOfInt.Add(6);
 
 var readOnlyJsonArray = array.AsReadOnly; // ReadOnlyJsonArray implements IReadOnlyList<object>
